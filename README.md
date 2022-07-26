@@ -11,3 +11,4 @@ Our quiz app contains a total of three-screen, the welcome screen where a user s
 This is a complete functional quiz app that works on both Android and iOS devices. For state management, we use the getX package.
 
 ### Quiz App Final UI
+![myfile](https://user-images.githubusercontent.com/48158931/180965971-6fda42ee-914d-4cb7-8ac2-2b5de528b483.png)
